@@ -1,0 +1,1 @@
+import{bo as t}from"./index.1bb36a93.js";const o=t("useSelfWithholdingStore",{state:()=>({loading:!1,typeAction:"list",keyList:0,selfWithholdings:[],currentPage:1,lastPage:0,totalData:0,totalPage:0,links:0,formulario:{}}),getters:{},actions:{}});export{o as u};

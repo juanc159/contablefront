@@ -1,0 +1,1 @@
+import{d as e,o as n,c as t,p as o,bn as c}from"./index.1bb36a93.js";const s={class:"py-5 d-flex justify-content-center align-items-center flex-column"},p=e({__name:"PreloadInterno",setup(a){return(r,_)=>(n(),t("div",s,[o(c)]))}});export{p as _};

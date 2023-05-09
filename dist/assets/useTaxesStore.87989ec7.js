@@ -1,0 +1,1 @@
+import{bo as e}from"./index.1bb36a93.js";const s=e("useTaxesStore",{state:()=>({loading:!1,typeAction:"list",keyList:0,taxes:[],currentPage:1,lastPage:0,formulario:{}}),getters:{},actions:{}});export{s as u};
